@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer: MERN
 --------------------------
 
-Now in my 7th year of programming, I enjoy all aspects of programming and constantly looking to hone skills. That said, within the MERN full stack the majority of experience is in the front end, focused on React development, and strength in JavaScript using either vanilla JS or jQuery.
+Now in my 7th year, I enjoy all aspects of programming and constantly looking to hone skills. That said, within the MERN full stack the majority of experience is in the front end, focused on React development, and strength in JavaScript using either vanilla JS or jQuery.
 
 * 🌍  I'm based in Phoenix
 * ✉️  You can contact me at [thielbert7@gmail.com](mailto:thielbert7@gmail.com)
