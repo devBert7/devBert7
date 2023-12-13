@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer: MERN
 --------------------------
 
-Now in my 7th year, programming has become a passion.  It continuously fascinates me and creates an itch to continue past each learning curve into a true professional. That said, within the MERN full stack, the majority of my experience is in front end, focused on React development.  A programming confidence I possess is in the JavaScript stack using vanilla JS, jQuery, or React on the front end and Node / Express on the back end.  I've tested my ability to write and deploy real code using many languages, frameworks, and packages.  I've recently deepend my grasp of Big O notation and covered Data Structures and Algorithms in detail.  I'll use this to optimize time and space complexity in future application effort, as I am currently doing with a large side project I'm pursuing in the mobile gaming space.  Next is to deepen my understanding of system design and architecture.
+Now in my 7th year, programming has become a passion I can see myself doing as far into the future as I can imagine.  
+
+As for skill, Vanilla JavaScript is a confidence, along with the MERN stack.  The majority of my experience is in front end programming in the startup space, and continues into work and projects on the back end writing APIs and connecting efficient databases. 
+
+I've tested my ability to write, test, bundle, and deploy real code.  I've recently deepend my grasp of Big O notation and covered Data Structures and Algorithms in detail, and I have a sound grasp of Agile methodologies and DevOps as they apply to the development lifecycle. In the near future I plan to deepen my understanding of system design and architecture.
 
 * 🌍  I'm based in Phoenix
 * ✉️  You can contact me at [thielbert7@gmail.com](mailto:thielbert7@gmail.com)
